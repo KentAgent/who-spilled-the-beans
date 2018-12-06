@@ -1,0 +1,12 @@
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/bin/Debug/netstandard2.0/WhoSpilledTheBeans.deps.json
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/bin/Debug/netstandard2.0/WhoSpilledTheBeans.dll
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/bin/Debug/netstandard2.0/WhoSpilledTheBeans.pdb
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/WhoSpilledTheBeans.csprojAssemblyReference.cache
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/WhoSpilledTheBeans.csproj.CoreCompileInputs.cache
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/WhoSpilledTheBeans.AssemblyInfoInputs.cache
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/WhoSpilledTheBeans.AssemblyInfo.cs
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/WhoSpilledTheBeans.dll
+/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/WhoSpilledTheBeans.pdb

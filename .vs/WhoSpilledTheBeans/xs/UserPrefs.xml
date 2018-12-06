@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BF95A8F0-31AF-43EB-BFE6-2D05AB4217A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.WhoSpilledTheBeans.Android FirstBuild="True" PreferredExecutionTarget="Android.5.4_FWVGA_API_23" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhoSpilledTheBeans/obj/Debug/netstandard2.0/MainPage.xaml.g.cs">
+    <Files>
+      <File FileName="WhoSpilledTheBeans/MainPage.xaml.cs" Line="53" Column="51" />
+      <File FileName="WhoSpilledTheBeans/MainPage.xaml" Line="5" Column="124" />
+      <File FileName="../../Documents/:Users:Apostolidis:Projects:WhoSpilledTheBeans:WhoSpilledTheBeans:Quotes.cs" Line="8" Column="13" />
+      <File FileName="WhoSpilledTheBeans/Quote.cs" Line="4" Column="18" />
+      <File FileName="WhoSpilledTheBeans/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WhoSpilledTheBeans.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2A916FAD-F8D7-4F22-AA61-4FDB7E9BD8EA" />
+  <MultiItemStartupConfigurations />
+</Properties>
