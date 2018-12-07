@@ -56,10 +56,11 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -387,28 +388,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/Apostolidis/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\willi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/WhoSpilledTheBeans.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\Documents\\schuuul\\C#\\who-spilled-the-beans\\WhoSpilledTheBeans\\WhoSpilledTheBeans.csproj",
       "projectName": "WhoSpilledTheBeans",
-      "projectPath": "/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/WhoSpilledTheBeans.csproj",
-      "packagesPath": "/Users/Apostolidis/.nuget/packages/",
-      "outputPath": "/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj",
+      "projectPath": "C:\\Users\\willi\\Documents\\schuuul\\C#\\who-spilled-the-beans\\WhoSpilledTheBeans\\WhoSpilledTheBeans.csproj",
+      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\willi\\Documents\\schuuul\\C#\\who-spilled-the-beans\\WhoSpilledTheBeans\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Apostolidis/.config/NuGet/NuGet.Config"
+        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

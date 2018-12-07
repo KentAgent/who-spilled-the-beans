@@ -10,3 +10,15 @@
 /Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/WhoSpilledTheBeans.dll
 /Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/obj/Debug/netstandard2.0/WhoSpilledTheBeans.pdb
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\bin\Debug\netstandard2.0\WhoSpilledTheBeans.deps.json
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\bin\Debug\netstandard2.0\WhoSpilledTheBeans.dll
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\bin\Debug\netstandard2.0\WhoSpilledTheBeans.pdb
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\obj\Debug\netstandard2.0\WhoSpilledTheBeans.csprojAssemblyReference.cache
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\obj\Debug\netstandard2.0\WhoSpilledTheBeans.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\obj\Debug\netstandard2.0\WhoSpilledTheBeans.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\obj\Debug\netstandard2.0\WhoSpilledTheBeans.AssemblyInfo.cs
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\obj\Debug\netstandard2.0\WhoSpilledTheBeans.dll
+C:\Users\willi\Documents\schuuul\C#\who-spilled-the-beans\WhoSpilledTheBeans\obj\Debug\netstandard2.0\WhoSpilledTheBeans.pdb

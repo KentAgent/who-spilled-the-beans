@@ -791,31 +791,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/Apostolidis/.nuget/packages/": {}
+    "C:\\Users\\willi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans.iOS/WhoSpilledTheBeans.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\Documents\\schuuul\\C#\\who-spilled-the-beans\\WhoSpilledTheBeans.iOS\\WhoSpilledTheBeans.iOS.csproj",
       "projectName": "WhoSpilledTheBeans.iOS",
-      "projectPath": "/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans.iOS/WhoSpilledTheBeans.iOS.csproj",
-      "packagesPath": "/Users/Apostolidis/.nuget/packages/",
-      "outputPath": "/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans.iOS/obj",
+      "projectPath": "C:\\Users\\willi\\Documents\\schuuul\\C#\\who-spilled-the-beans\\WhoSpilledTheBeans.iOS\\WhoSpilledTheBeans.iOS.csproj",
+      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\willi\\Documents\\schuuul\\C#\\who-spilled-the-beans\\WhoSpilledTheBeans.iOS\\obj\\",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/Apostolidis/.config/NuGet/NuGet.Config"
+        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/WhoSpilledTheBeans.csproj": {
-              "projectPath": "/Users/Apostolidis/Projects/WhoSpilledTheBeans/WhoSpilledTheBeans/WhoSpilledTheBeans.csproj"
+            "C:\\Users\\willi\\Documents\\schuuul\\C#\\who-spilled-the-beans\\WhoSpilledTheBeans\\WhoSpilledTheBeans.csproj": {
+              "projectPath": "C:\\Users\\willi\\Documents\\schuuul\\C#\\who-spilled-the-beans\\WhoSpilledTheBeans\\WhoSpilledTheBeans.csproj"
             }
           }
         }
