@@ -118,6 +118,7 @@ namespace WhoSpilledTheBeans
 
         private void NewQuote()
         {
+            AuthorLabel.IsVisible = false;
             GameQuote GQ = model.GetGameQuote();
             CurrentGameQuote = GQ;
             CurrentQuote = GQ.Quote;
